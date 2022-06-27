@@ -19,7 +19,7 @@ body {
 .card {
     padding: 15px;
     width: 295px;
-    height: 500px;
+    height: 480px;
     text-align: center;
     background-color: hsl(0, 0%, 100%);
     border-radius: 14px;
@@ -27,11 +27,11 @@ body {
 }
 .card img {
     width: 100%;
-    height: 60%;
+    height: 62%;
     border-radius: 8px;
 }
 .card h3 {
-    margin: 15px 0;
+    margin: 20px 0 15px;
     font-size: 21px;
 }
 .card p {
@@ -42,7 +42,7 @@ body {
     font-size: 11px; 
     text-align: center; 
     margin-top: 50px;
-    margin-bottom: -50px;
+    margin-bottom: -65px;
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
