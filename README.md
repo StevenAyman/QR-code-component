@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-card-with-flexbox-uSEQ_m6A2x]
-- Live Site URL: [https://stevenayman.github.io/QR-code-component/]
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-card-with-flexbox-uSEQ_m6A2x
+- Live Site URL: https://stevenayman.github.io/QR-code-component/
 
 ## My process
 
@@ -34,6 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/StevenAyman]
+- Frontend Mentor - https://www.frontendmentor.io/profile/StevenAyman
 
 
